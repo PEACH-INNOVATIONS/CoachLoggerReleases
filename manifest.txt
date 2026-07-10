@@ -1,4 +1,4 @@
-version=2
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/CoachLoggerApp_v2.bin
+version=3
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/CoachLoggerApp.bin
 size=104244
 crc32=0x7EF919E6
