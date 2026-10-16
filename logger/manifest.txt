@@ -1,4 +1,4 @@
-version=3
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/logger/logger_v3.bin
-size=1641712
-crc32=0x77b439d2
+version=4
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/logger/logger_v4.bin
+size=881224
+crc32=0xa150e7db
