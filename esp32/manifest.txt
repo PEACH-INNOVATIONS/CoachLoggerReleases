@@ -1,4 +1,4 @@
-version=3
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/esp32/xiao_ota_v3.bin
-size=1140640
-crc32=0x2204efcb
+version=4
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/esp32/xiao_ota_v4.bin
+size=1140656
+crc32=0x0fd4c3b4
