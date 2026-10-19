@@ -1,0 +1,4 @@
+version=2
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/hwtest/hwtest_v2.bin
+size=702564
+crc32=0x7d48757c
