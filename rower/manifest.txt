@@ -1,4 +1,4 @@
-version=10
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/rower/rower_v10.bin
-size=780880
-crc32=0x681464e8
+version=11
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/rower/rower_v11.bin
+size=781072
+crc32=0x2ebd41ce
