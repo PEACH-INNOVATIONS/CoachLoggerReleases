@@ -1,0 +1,4 @@
+version=1
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/radiologger/radiologger_v1.bin
+size=936768
+crc32=0x6d17499d
