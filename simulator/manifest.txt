@@ -1,0 +1,4 @@
+version=2
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/simulator/simulator_v2.bin
+size=763428
+crc32=0x67930f06
