@@ -1,4 +1,4 @@
-version=9
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/rde/rde_v9.bin
-size=199120
-crc32=0x6a76144d
+version=10
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/rde/rde_v10.bin
+size=199592
+crc32=0xd7d9ea51
