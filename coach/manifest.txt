@@ -1,4 +1,4 @@
-version=32
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/coach/coach_v32.bin
-size=901284
-crc32=0x4862c907
+version=33
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/coach/coach_v33.bin
+size=905260
+crc32=0x6d777913
