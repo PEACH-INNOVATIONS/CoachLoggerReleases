@@ -1,4 +1,4 @@
-version=7
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/simulator/simulator_v7.bin
-size=782152
-crc32=0xfe6d9b98
+version=8
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/simulator/simulator_v8.bin
+size=782984
+crc32=0x89190467
