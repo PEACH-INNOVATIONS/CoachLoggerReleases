@@ -1,4 +1,4 @@
-version=23
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/sensorbox/sensorbox_v23.bin
-size=308760
-crc32=0x044448d5
+version=24
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/sensorbox/sensorbox_v24.bin
+size=311280
+crc32=0x89338035
