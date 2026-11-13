@@ -1,0 +1,4 @@
+version=1002129
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/dect/dect_v1002129.bin
+size=338016
+crc32=0x86c75072
