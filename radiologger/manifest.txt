@@ -1,4 +1,4 @@
-version=43
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/radiologger/radiologger_v43.bin
-size=1032864
-crc32=0x6e97eca6
+version=44
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/radiologger/radiologger_v44.bin
+size=1033088
+crc32=0xc4efcb48
