@@ -1,4 +1,4 @@
-version=16
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/hwtest/hwtest_v16.bin
-size=733548
-crc32=0x4c81e8d1
+version=17
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/hwtest/hwtest_v17.bin
+size=734196
+crc32=0xbd5e161f
