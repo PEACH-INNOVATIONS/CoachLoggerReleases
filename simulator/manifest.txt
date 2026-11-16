@@ -1,4 +1,4 @@
-version=14
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/simulator/simulator_v14.bin
+version=15
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/simulator/simulator_v15.bin
 size=786936
-crc32=0xc339f89e
+crc32=0xcb84d70e
