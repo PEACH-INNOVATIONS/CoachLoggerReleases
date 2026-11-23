@@ -1,4 +1,4 @@
-version=9
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/halow/halow_v9.bin
-size=1213940
-crc32=0xb5763014
+version=10
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/halow/halow_v10.bin
+size=1214300
+crc32=0xab450a9b
