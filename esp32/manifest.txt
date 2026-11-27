@@ -1,4 +1,4 @@
-version=13
-url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/esp32/xiao_ota_v13.bin
-size=1483744
-crc32=0xfb9aa577
+version=14
+url=https://raw.githubusercontent.com/PEACH-INNOVATIONS/CoachLoggerReleases/main/esp32/xiao_ota_v14.bin
+size=1484224
+crc32=0xd091b2be
